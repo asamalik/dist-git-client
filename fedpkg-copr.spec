@@ -1,5 +1,5 @@
 Name:           fedpkg-copr
-Version:        0.1
+Version:        0.2
 Release:        1%{?dist}
 Summary:        Fedpkg modified to work with copr dist git
 
